@@ -1,0 +1,103 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.top {
+	font-size: 1.150em;
+  	word-break: keep-all;
+  	width: 300px;
+}
+
+.gerecht {
+	margin-bottom: 30px;
+	margin-top: 20px;
+	font-size: 1.5em;
+}
+
+.bottom {
+	font-size: 1.150em;
+	word-break: keep-all;
+	width: 300px;
+	margin-top: 20px;
+}
+
+.info {
+	width: 650px;
+	margin-left: 650px;
+}
+
+.body1 {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 0.84em;
+}
+
+.o1 {
+	font-size: 1.5em;
+}
+
+.o2 {
+	margin-left: 15px;
+	font-size: 0.84em;
+}
+
+.o3 {
+	font-size: 1.5em;
+	margin-top: 20px;
+}
+
+li {
+	margin-top: 15px;
+}
+
+.o4 {
+	font-size: 0.84em;
+	margin-left: 15px;
+}
+
+.o6 {
+	background-color: #e0f6ed;
+	border: solid #e0f6ed;
+	padding: 10px;
+	font-size: 0.84em;
+}
+
+.o7 {
+	margin-top: 40px;
+	font-size: 1.15em;
+}
+
+.o8 {
+	font-size: 1.15em;
+	margin-left: 750px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+  
+  text-align: center; 
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: blue;
+  color: white;
+}
+
+.bar {
+	margin-left: 650px;
+}
