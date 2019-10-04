@@ -23,7 +23,7 @@ body {
 
 .info {
 	width: 650px;
-	margin-left: 650px;
+	margin: 0 auto 0 auto;
 }
 
 .body1 {
@@ -69,7 +69,6 @@ li {
 
 .o8 {
 	font-size: 1.15em;
-	margin-left: 750px;
 }
 
 .topnav {
@@ -99,5 +98,5 @@ li {
 }
 
 .bar {
-	margin-left: 650px;
+	margin: 0 auto 0 auto;
 }
